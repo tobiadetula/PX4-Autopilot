@@ -66,4 +66,3 @@ Makefile.* text eol=lf
 .gitattributes text eol=lf
 .gitignore     text eol=lf
 Makefile       text eol=lf
-Tools/setup/xtensa-esp-elf-13.2.0_20240530-x86_64-linux-gnu.tar.xz filter=lfs diff=lfs merge=lfs -text
