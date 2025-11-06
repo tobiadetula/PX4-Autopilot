@@ -1,0 +1,8 @@
+#!/bin/sh
+#
+# @name SDU Drone with Depth Camera
+#
+# @type Hexarotor x
+#
+
+. ${R}etc/init.d-posix/airframes/6013_gz_sdu_drone

@@ -93,6 +93,21 @@ px4_add_romfs_files(
 
 	6011_gazebo-classic_typhoon_h480
 	6011_gazebo-classic_typhoon_h480.post
+	
+	6013_gz_sdu_drone
+	6014_sdu_drone
+    6015_gz_sdu_drone_lidar
+    60160_gz_sdu_drone_mono_cam
+    60161_gz_sdu_drone_mono_cam_downward
+    6017_gz_sdu_drone_stereo_cam
+    6018_gz_sdu_drone_depth_cam
+    6019_gz_sdu_drone_sonar
+    6020_gz_sdu_drone_hitl
+    6021_gz_sdu_drone_gimbal
+    6021_gz_sdu_drone_gimbal.post
+    6022_gz_sdu_drone_solid_state_lidar
+    6023_gz_sdu_drone_velodyne
+	
 
 	8011_gz_omnicopter
 
